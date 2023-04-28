@@ -12,10 +12,8 @@ These APIs enable the extension to access and delete browsing data in a secure a
 2. Click on the three vertical dots located at the top right corner of the browser window.
 3. Select "More tools" from the drop-down menu, and then select "Extensions".
 4. Alternatively, you can type "chrome://extensions/" in the address bar and hit enter to go directly to the Extensions page.
-5. On the Extensions page, click on the "Open Chrome Web Store" button located at the bottom left corner of the page.
-6. You can browse for extensions using the search bar, or you can use the various categories to find the extension you want to add.
-7. Once you've found the extension you want to add, click on the "Add to Chrome" button located on the right side of the page.
-8. A pop-up window will appear, asking you to confirm that you want to add the extension. Click on the "Add extension" button to confirm.
-9. The extension will then be added to your Chrome browser, and you should see its icon appear on the top right corner of the browser window.
+5. Expand the Developer dropdown menu and click “Load Unpacked Extension”
+6. Navigate to the local folder containing the extension’s code and click Ok
+7. Assuming there are no errors, the extension should load into your browser
 
 That's it! You can now use the extension in your Chrome browser.
