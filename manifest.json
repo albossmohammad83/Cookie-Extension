@@ -1,0 +1,15 @@
+{
+  "name": "Cookie Blocker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Blocks cookies and clears browsing history",
+  "permissions": [
+      "cookies",
+      "history",
+      "browsingData"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "images/Cookie-logo.png"
+  }
+}
